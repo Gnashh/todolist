@@ -60,7 +60,3 @@ The app should now be running at `http://localhost:5173/`.
    docker run -p 5173:5173 todolist-app
    ```
 The app should now be accessible at `http://localhost:5173/`.
-
-
-## License
-This project is licensed under the MIT License.
