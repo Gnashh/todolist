@@ -16,7 +16,6 @@ To get started with this project, follow these steps:
 ### Prerequisites
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/)
-- [Git](https://git-scm.com/)
 - [Docker](https://www.docker.com/)
 
 ### Clone the repository
@@ -60,3 +59,11 @@ The app should now be running at `http://localhost:5173/`.
    docker run -p 5173:5173 todolist-app
    ```
 The app should now be accessible at `http://localhost:5173/`.
+
+
+### Key learning and challenges
+- Key learning : By getting hands on experience on making a react webapp, it help me to understand deeper about how react work, connecting an app to a sloud data base which Firebase and also manage it's authentication.
+- Challenges : The main challenge when making the app is to make sure that the authentication work accordingly and make sure that it run smoothly from one page to another. Extra challenge reside when I tried to implement the docker.
+
+### Extra :
+DockerHub link : https://hub.docker.com/r/gnashh/todoapp/tags
